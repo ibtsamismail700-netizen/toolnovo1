@@ -1,0 +1,59 @@
+{
+  "redirects": [
+    {
+      "source": "/privacy",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/home",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/home/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about-us",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/about-us/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contact-us",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/contact-us/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/terms-conditions",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/terms-conditions/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tools/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/:path*",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
